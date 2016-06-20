@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[emersonacademy]]></title>
         <description><![CDATA[emersonacademy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/emersonacademy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 08:54:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 20 Jun 2016 09:04:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/emersonacademy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What Is Liberal Education?]]></title>
+            <description><![CDATA[<article><h1>What Is Liberal Education?</h1><p>The Association of American Colleges and Universities describes liberal education as “a philosophy of education that empowers individuals with broad knowledge and transferable skills, and a stronger sense of values, ethics, and civic engagement…characterized by challenging encounters with important issues.” In the early years of the 21st century, many universities and liberal arts colleges throughout the United States reviewed their curricula to include a liberal education or to promote broader undergraduate education infused with its spirit.</p></article>]]></description>
+            <link>https://thegrid.ai/emersonacademy/what-is-liberal-education/index.html</link>
+            <guid isPermaLink="false">dfe30934-8463-4427-8dd2-9114a84033c5</guid>
+            <pubDate>Mon, 20 Jun 2016 09:03:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Is Classical Education?]]></title>
             <description><![CDATA[<article><h1>What Is Classical Education?</h1><p> With its beginning in ancient Greece and Rome, classical education flourished during the Middle Ages and the Renaissance, becoming the primary rite of passage for the intellectual elite throughout all the other great historical epochs of western civilization until the advent of modern progressive education in the 20th century. Classical education teaches the student to think clearly and to love beauty and the past. It trains the mind to analyze and draw conclusions. The student learns how to spot patterns and principles, how to solve problems and tie in new ideas. It demands self-discipline and perseverance. Classical education is language-intensive, with reading, writing, grammar, logic, and rhetoric at the center of the curriculum. It is history-intensive, providing the student with a holistic view of human endeavors through the great classics from the beginning until now.Classical education is systematic. Every element of the curriculum is fully integrated, building upon one another. The curriculum is tightly structured, starting at the Logic Stage (5th-8th grades), during which the student perfects the skill of abstracting from particulars, to the Rhetoric Stage (9th-12th grades), during which the student uses his argumentative skills developed at the Logic Stage for self-expression in speech and writing. Classical education is rigorous. Emerson’s language curriculum in classical grammar, classical logic, and classical rhetoric is vastly different in scope and content from what is currently taught in schools today. Our materials have been time-honored: We do not use modern American textbooks with their fragmented incoherency and skittish content but the original works of only the great authors that have withstood the test of time. </p></article>]]></description>
-            <link>undefinedwhat-is-classical-education/index.html</link>
+            <link>https://thegrid.ai/emersonacademy/what-is-classical-education/index.html</link>
             <guid isPermaLink="false">19e352f9-93bd-4cf5-b2cb-4b70997d4454</guid>
             <pubDate>Mon, 20 Jun 2016 08:51:45 GMT</pubDate>
         </item>
