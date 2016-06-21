@@ -1,6 +1,6 @@
 name: emersonacademy
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.51586
 typography_spectrum: 0.38114717812277377
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#010101'
-    - '#aabcca'
-    - '#f2ece0'
-    - '#7b5f49'
-    - '#8c181a'
+    - '#030000'
+    - '#f6f6f6'
+    - '#473e00'
+    - '#b3a197'
+    - '#d65e2c'
   brandStrength: 0.75
   lightness: 1
   saturation: 0.5
